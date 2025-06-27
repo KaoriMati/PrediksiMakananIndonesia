@@ -1,0 +1,80 @@
+{
+  "Ayam Goreng": {
+    "Kalori": "260 kcal",
+    "Karbohidrat": "5 g",
+    "Protein": "25 g",
+    "Lemak": "17 g"
+  },
+  "Burger": {
+    "Kalori": "295 kcal",
+    "Karbohidrat": "30 g",
+    "Protein": "17 g",
+    "Lemak": "14 g"
+  },
+  "French Fries": {
+    "Kalori": "312 kcal",
+    "Karbohidrat": "41 g",
+    "Protein": "3.4 g",
+    "Lemak": "15 g"
+  },
+  "Gado-Gado": {
+    "Kalori": "376 kcal",
+    "Karbohidrat": "20 g",
+    "Protein": "12 g",
+    "Lemak": "28 g"
+  },
+  "Ikan Goreng": {
+    "Kalori": "240 kcal",
+    "Karbohidrat": "0 g",
+    "Protein": "22 g",
+    "Lemak": "17 g"
+  },
+  "Mie Goreng": {
+    "Kalori": "410 kcal",
+    "Karbohidrat": "45 g",
+    "Protein": "9 g",
+    "Lemak": "20 g"
+  },
+  "Nasi Goreng": {
+    "Kalori": "400 kcal",
+    "Karbohidrat": "45 g",
+    "Protein": "12 g",
+    "Lemak": "15 g"
+  },
+  "Nasi Padang": {
+    "Kalori": "700 kcal",
+    "Karbohidrat": "50 g",
+    "Protein": "25 g",
+    "Lemak": "40 g"
+  },
+  "Pizza": {
+    "Kalori": "285 kcal",
+    "Karbohidrat": "36 g",
+    "Protein": "12 g",
+    "Lemak": "10 g"
+  },
+  "Rawon": {
+    "Kalori": "380 kcal",
+    "Karbohidrat": "35 g",
+    "Protein": "18 g",
+    "Lemak": "22 g"
+  },
+  "Rendang": {
+    "Kalori": "472 kcal",
+    "Karbohidrat": "5 g",
+    "Protein": "25 g",
+    "Lemak": "40 g"
+  },
+  "Sate": {
+    "Kalori": "250 kcal",
+    "Karbohidrat": "15 g",
+    "Protein": "20 g",
+    "Lemak": "12 g"
+  },
+  "Soto": {
+    "Kalori": "300 kcal",
+    "Karbohidrat": "20 g",
+    "Protein": "18 g",
+    "Lemak": "15 g"
+  }
+}
